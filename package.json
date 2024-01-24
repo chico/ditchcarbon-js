@@ -1,0 +1,12 @@
+{
+  "name": "ditchcarbon-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run build && node dist/main.js",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {}
+}
